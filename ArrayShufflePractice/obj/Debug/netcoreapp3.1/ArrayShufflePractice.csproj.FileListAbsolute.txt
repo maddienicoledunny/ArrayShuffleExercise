@@ -1,0 +1,12 @@
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\bin\Debug\netcoreapp3.1\ArrayShufflePractice.exe
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\bin\Debug\netcoreapp3.1\ArrayShufflePractice.deps.json
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\bin\Debug\netcoreapp3.1\ArrayShufflePractice.runtimeconfig.json
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\bin\Debug\netcoreapp3.1\ArrayShufflePractice.runtimeconfig.dev.json
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\bin\Debug\netcoreapp3.1\ArrayShufflePractice.dll
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\bin\Debug\netcoreapp3.1\ArrayShufflePractice.pdb
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\obj\Debug\netcoreapp3.1\ArrayShufflePractice.AssemblyInfoInputs.cache
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\obj\Debug\netcoreapp3.1\ArrayShufflePractice.AssemblyInfo.cs
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\obj\Debug\netcoreapp3.1\ArrayShufflePractice.csproj.CoreCompileInputs.cache
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\obj\Debug\netcoreapp3.1\ArrayShufflePractice.dll
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\obj\Debug\netcoreapp3.1\ArrayShufflePractice.pdb
+C:\Users\thefo\Documents\Projects\ArrayShufflePractice\obj\Debug\netcoreapp3.1\ArrayShufflePractice.genruntimeconfig.cache
